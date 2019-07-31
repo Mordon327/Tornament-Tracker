@@ -8,11 +8,25 @@ namespace TrackerLibrary
 {
     public class PrizeModel
     {
+        /// <summary>
+        /// Numerical value of place.
+        /// </summary>
         public int PlaceNumber { get; set; }
 
+        /// <summary>
+        /// String value of place. This can be: First Place, Champion, Winner, etc.
+        /// </summary>
         public string PlaceName { get; set; }
 
-        public int MyProperty { get; set; }
+        /// <summary>
+        /// Cash value for prize.
+        /// </summary>
+        public double PrizeAmount { get; set; }
+
+        /// <summary>
+        /// Percent won of combined prizes.
+        /// </summary>
+        public double Percentage { get; set; }
 
     }
 }
