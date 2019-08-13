@@ -41,7 +41,7 @@
             this.HeaderLabel.AutoSize = true;
             this.HeaderLabel.Font = new System.Drawing.Font("Segoe UI Light", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HeaderLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.HeaderLabel.Location = new System.Drawing.Point(103, 41);
+            this.HeaderLabel.Location = new System.Drawing.Point(101, 32);
             this.HeaderLabel.Name = "HeaderLabel";
             this.HeaderLabel.Size = new System.Drawing.Size(385, 50);
             this.HeaderLabel.TabIndex = 15;
@@ -50,7 +50,7 @@
             // selectTournamentDropdown
             // 
             this.selectTournamentDropdown.FormattingEnabled = true;
-            this.selectTournamentDropdown.Location = new System.Drawing.Point(125, 160);
+            this.selectTournamentDropdown.Location = new System.Drawing.Point(125, 147);
             this.selectTournamentDropdown.Name = "selectTournamentDropdown";
             this.selectTournamentDropdown.Size = new System.Drawing.Size(336, 38);
             this.selectTournamentDropdown.TabIndex = 20;
@@ -60,7 +60,7 @@
             this.loadExistingTournamentLabel.AutoSize = true;
             this.loadExistingTournamentLabel.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.loadExistingTournamentLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.loadExistingTournamentLabel.Location = new System.Drawing.Point(129, 120);
+            this.loadExistingTournamentLabel.Location = new System.Drawing.Point(129, 107);
             this.loadExistingTournamentLabel.Name = "loadExistingTournamentLabel";
             this.loadExistingTournamentLabel.Size = new System.Drawing.Size(322, 37);
             this.loadExistingTournamentLabel.TabIndex = 19;

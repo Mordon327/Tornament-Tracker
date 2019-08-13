@@ -67,7 +67,7 @@
             this.HeaderLabel.AutoSize = true;
             this.HeaderLabel.Font = new System.Drawing.Font("Segoe UI Light", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HeaderLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.HeaderLabel.Location = new System.Drawing.Point(37, 29);
+            this.HeaderLabel.Location = new System.Drawing.Point(37, 21);
             this.HeaderLabel.Name = "HeaderLabel";
             this.HeaderLabel.Size = new System.Drawing.Size(209, 50);
             this.HeaderLabel.TabIndex = 14;
@@ -75,7 +75,7 @@
             // 
             // placeNumberValue
             // 
-            this.placeNumberValue.Location = new System.Drawing.Point(266, 223);
+            this.placeNumberValue.Location = new System.Drawing.Point(261, 206);
             this.placeNumberValue.Name = "placeNumberValue";
             this.placeNumberValue.Size = new System.Drawing.Size(214, 35);
             this.placeNumberValue.TabIndex = 18;
@@ -85,7 +85,7 @@
             this.placeNumberLabel.AutoSize = true;
             this.placeNumberLabel.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.placeNumberLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.placeNumberLabel.Location = new System.Drawing.Point(44, 221);
+            this.placeNumberLabel.Location = new System.Drawing.Point(34, 203);
             this.placeNumberLabel.Name = "placeNumberLabel";
             this.placeNumberLabel.Size = new System.Drawing.Size(183, 37);
             this.placeNumberLabel.TabIndex = 17;
@@ -93,7 +93,7 @@
             // 
             // placeNameValue
             // 
-            this.placeNameValue.Location = new System.Drawing.Point(266, 272);
+            this.placeNameValue.Location = new System.Drawing.Point(261, 261);
             this.placeNameValue.Name = "placeNameValue";
             this.placeNameValue.Size = new System.Drawing.Size(214, 35);
             this.placeNameValue.TabIndex = 20;
@@ -103,7 +103,7 @@
             this.placeNameLabel.AutoSize = true;
             this.placeNameLabel.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.placeNameLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.placeNameLabel.Location = new System.Drawing.Point(39, 270);
+            this.placeNameLabel.Location = new System.Drawing.Point(34, 259);
             this.placeNameLabel.Name = "placeNameLabel";
             this.placeNameLabel.Size = new System.Drawing.Size(157, 37);
             this.placeNameLabel.TabIndex = 19;
@@ -111,7 +111,7 @@
             // 
             // placeAmountValue
             // 
-            this.placeAmountValue.Location = new System.Drawing.Point(266, 321);
+            this.placeAmountValue.Location = new System.Drawing.Point(261, 310);
             this.placeAmountValue.Name = "placeAmountValue";
             this.placeAmountValue.Size = new System.Drawing.Size(214, 35);
             this.placeAmountValue.TabIndex = 22;
@@ -121,7 +121,7 @@
             this.prizeAmountLabel.AutoSize = true;
             this.prizeAmountLabel.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.prizeAmountLabel.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.prizeAmountLabel.Location = new System.Drawing.Point(39, 319);
+            this.prizeAmountLabel.Location = new System.Drawing.Point(34, 308);
             this.prizeAmountLabel.Name = "prizeAmountLabel";
             this.prizeAmountLabel.Size = new System.Drawing.Size(176, 37);
             this.prizeAmountLabel.TabIndex = 21;
